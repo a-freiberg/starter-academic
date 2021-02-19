@@ -2,18 +2,23 @@
 title: Amelie Freiberg
 role: PhD Candidate
 avatar_filename: avatar
-Research interests:
-- Gender, race and identity
-- Causes and consequences of armed violence
-- Political violence
-- International & civil conflict
-- Quantitative methods
 social:
   - display:
       header: false
     link: mailto:freibera@tcd.ie
     icon_pack: far
     icon: envelope
+education:
+  courses:
+    - course: PhD in Political Science, 2024 (expected)
+      institution: Trinity College Dublin, Ireland
+      year: ""
+    - course: M.Sc. in International Politics
+      institution: Trinity College Dublin, Ireland
+      year: 2020
+    - course: BA in Political Science and English Studies
+      year: 2017
+      institution: University of Mannheim, Germany
 superuser: false
 ---
 <!--StartFragment-->
