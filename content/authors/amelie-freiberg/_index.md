@@ -19,7 +19,7 @@ education:
     - course: BA in Political Science and English Studies
       year: 2017
       institution: University of Mannheim, Germany
-superuser: false
+superuser: true
 ---
 <!--StartFragment-->
 
