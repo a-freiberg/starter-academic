@@ -2,6 +2,12 @@
 title: Amelie Freiberg
 role: PhD Candidate
 avatar_filename: avatar
+Research interests:
+- Gender, race and identity
+- Causes and consequences of armed violence
+- Political violence
+- International & civil conflict
+- Quantitative methods
 social:
   - display:
       header: false
