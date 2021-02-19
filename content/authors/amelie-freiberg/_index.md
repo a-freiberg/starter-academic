@@ -8,6 +8,12 @@ social:
     link: mailto:freibera@tcd.ie
     icon_pack: far
     icon: envelope
+interests:
+- Gender, race and identity
+-Causes and consequences of armed violence
+- Political violence
+- International & civil conflict
+- Quantitative methods
 education:
   courses:
     - course: PhD in Political Science, 2024 (expected)
