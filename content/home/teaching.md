@@ -14,7 +14,7 @@ experience:
         POU33152 German Politics (Undergraduate)
   - title: Lecturer
     company: University of Konstanz – International Politics Chair Prof. Gerald Schneider
-    company_url: "https://www.polver.uni-konstanz.de/holzinger/"
+    company_url: "https://www.polver.uni-konstanz.de/en/"
     location: Konstanz, Germany
     date_start: 2020-04-01
     date_end: 2020-09-31
