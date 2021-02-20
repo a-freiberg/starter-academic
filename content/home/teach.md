@@ -14,13 +14,13 @@ experience:
         
         * POU11011 Introduction to Political Science (Undergraduate)
         * POU33152 German Politics (Undergraduate)
-  - title: Professor
-    company: University X
-    company_url: ""
-    location: California
-    date_start: 2016-01-01
-    date_end: 2016-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Lecturer
+    company: University of Konstanz – International Politics Chair Prof. Gerald Schneider
+    company_url: "https://www.polver.uni-konstanz.de/en/"
+    location: Konstanz, Germany
+    date_start: 2020-04-01
+    date_end: 2020-09-31
+    description: Sexual Violence in Armed Conflicts – Patterns of wartime rape in civil wars (Undergraduate)
 widget_id: teaching
 headless: true
 weight: 40
