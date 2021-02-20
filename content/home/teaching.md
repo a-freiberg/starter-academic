@@ -5,7 +5,6 @@ widget: experience
 
 # This file represents a page section.
 headless: true
-active: true
 
 # Order that this section appears on the page.
 weight: 40
@@ -35,14 +34,12 @@ experience:
 
         
   - title: Lecturer
-    company: University of Konstanz – International Politics Chair Prof. Gerald
-Schneider
+    company: University of Konstanz – International Politics Chair Prof. Gerald Schneider
     company_url: 'https://www.polver.uni-konstanz.de/holzinger/'
     location: Konstanz, Germany
     date_start: '2020-04'
     date_end: '2020-09'
-    description: Sexual Violence in Armed Conflicts – Patterns of wartime rape in civil
-wars (Undergraduate)
+    description: Sexual Violence in Armed Conflicts – Patterns of wartime rape in civil wars (Undergraduate)
     
   - title: Teaching Assistant
     company: Trinity College, Dublin – Department of Political Science
