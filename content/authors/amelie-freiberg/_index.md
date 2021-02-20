@@ -1,7 +1,7 @@
 ---
 title: Amelie Freiberg
 role: PhD Candidate Trinity College, Dublin – Department of Political Science
-avatar_filename: avatar
+avatar_filename: ""
 interests:
   - Gender, race and identity
   - Causes and consequences of armed violence
