@@ -28,8 +28,8 @@ experience:
     company: Trinity College, Dublin – Department of Political Science
     company_url: https://www.tcd.ie/Political_Science/
     location: Dublin, Ireland
-    date_start: 2018-08-01
-    date_end: 2019-06-31
+    date_start: 2019-08-01
+    date_end: 2020-06-31
     description: |-2
         Courses:
         
@@ -37,6 +37,6 @@ experience:
 widget_id: experience
 headless: true
 weight: 40
-title: Teaching
+title: Teach
 subtitle: null
 ---
