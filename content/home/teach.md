@@ -1,3 +1,4 @@
+---
 widget: experience
 active: true
 date_format: Jan 2006
@@ -26,3 +27,4 @@ headless: true
 weight: 40
 title: Teaching
 subtitle: null
+---
