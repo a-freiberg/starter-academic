@@ -4,8 +4,8 @@
 widget: accomplishments
 
 # This file represents a page section.
-headless: active
-active: active
+headless: true
+active: true
 
 # Order that this section appears on the page.
 weight: 50
