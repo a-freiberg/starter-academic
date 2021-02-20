@@ -1,6 +1,6 @@
 ---
 title: Amelie Freiberg
-role: PhD Candidate Trinity College, Dublin – Department of Political Science
+role: PhD Candidate
 avatar_filename: ""
 interests:
   - Gender, race and identity
@@ -24,6 +24,9 @@ social:
     link: https://twitter.com/ameliefreiberg
     icon_pack: fab
     icon: twitter
+organizations:
+  - name: Trinity College, Dublin – Department of Political Science
+    url: https://www.tcd.ie/Political_Science/
 education:
   courses:
     - course: PhD in Political Science, 2024 (expected)
