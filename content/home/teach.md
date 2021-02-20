@@ -24,20 +24,9 @@ experience:
         Courses:
         
         * Sexual Violence in Armed Conflicts – Patterns of wartime rape in civil wars (Undergraduate)
-  - title: Teaching Assistant
-    company: Trinity College, Dublin – Department of Political Science
-    company_url: https://www.tcd.ie/Political_Science/
-    location: Dublin, Ireland
-    date_start: 2018-08-01
-    date_end: 2019-06-31
-    description: |-2
-        Courses:
-        
-        * PO2140 International Relations: Theories of International Politics (Undergraduate)
-        * PO2141 International Relations: Topics and Treaties (Undergraduate)
 widget_id: experience
 headless: true
 weight: 40
-title: Teaching
+title: Exp
 subtitle: null
 ---
