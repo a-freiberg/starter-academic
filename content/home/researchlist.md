@@ -30,7 +30,7 @@ item:
   description: Resources and Rape: Patterns of wartime rape in activist insurgencies
   organization: Amelie Freiberg
   organization_url: ""
-  title: Working papers:
+  title: Working papers
   url: ""
 - certificate_url: ""
   date_end: ""
