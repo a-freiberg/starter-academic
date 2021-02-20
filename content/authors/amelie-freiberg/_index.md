@@ -19,6 +19,11 @@ social:
     link: https://www.linkedin.com/in/amelie-freiberg-00457313a/
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    link: https://twitter.com/ameliefreiberg
+    icon_pack: fab
+    icon: twitter
 education:
   courses:
     - course: PhD in Political Science, 2024 (expected)
