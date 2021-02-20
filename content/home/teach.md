@@ -9,11 +9,8 @@ experience:
     location: Dublin, Ireland
     date_start: 2020-09-01
     date_end: ""
-    description: |-2
-        Courses:
-        
-        * POU11011 Introduction to Political Science (Undergraduate)
-        * POU33152 German Politics (Undergraduate)
+    description: POU11011 Introduction to Political Science (Undergraduate)
+    POU33152 German Politics (Undergraduate)
   - title: Teaching Assistant
     company: Trinity College, Dublin – Department of Political Science
     company_url: "https://www.tcd.ie/Political_Science/"
