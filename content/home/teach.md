@@ -34,6 +34,7 @@ experience:
         Courses:
         
         * PO2140 International Relations: Theories of International Politics (Undergraduate)
+        * PO2141 International Relations: Topics and Treaties (Undergraduate)
 widget_id: experience
 headless: true
 weight: 40
