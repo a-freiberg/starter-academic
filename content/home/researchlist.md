@@ -26,11 +26,11 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2019-06-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Amelie Freiberg
+  organization_url: ""
+  title: Working papers:
   url: ""
 - certificate_url: ""
   date_end: ""
