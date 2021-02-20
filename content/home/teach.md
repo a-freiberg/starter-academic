@@ -10,8 +10,10 @@ experience:
     location: Dublin, Ireland
     date_start: 2020-09-01
     date_end: ""
-    description: POU11011 Introduction to Political Science (Undergraduate)
-        POU33152 German Politics (Undergraduate)
+    description: |-2
+        Courses:
+          *POU11011 Introduction to Political Science (Undergraduate)
+          *POU33152 German Politics (Undergraduate)
   - title: Lecturer
     company: University of Konstanz – International Politics Chair Prof. Gerald Schneider
     company_url: https://www.polver.uni-konstanz.de/en/
