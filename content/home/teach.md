@@ -25,16 +25,15 @@ experience:
         
         * Sexual Violence in Armed Conflicts – Patterns of wartime rape in civil wars (Undergraduate)
   - title: Teaching Assistant
-    company: Trinity College, Dublin – Department of Political Science
-    company_url: https://www.tcd.ie/Political_Science/
-    location: Dublin, Ireland
-    date_start: 2018-08-01
-    date_end: 2019-06-31
+    company: Trinity College, Dublin – Department of Political Scienc
+    company_url: https://www.polver.uni-konstanz.de/en/
+    location: Konstanz, Germany
+    date_start: 2020-04-01
+    date_end: 2020-09-01
     description: |-2
         Courses:
         
-        * PO2140 International Relations: Theories of International Politics (Undergraduate)
-        * PO2141 International Relations: Topics and Treaties (Undergraduate)
+        * Sexual Violence in Armed Conflicts – Patterns of wartime rape in civil wars (Undergraduate)
 widget_id: experience
 headless: true
 weight: 40
