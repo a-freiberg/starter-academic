@@ -2,18 +2,23 @@
 title: Amelie Freiberg
 role: PhD Candidate
 avatar_filename: avatar
+interests:
+  - Gender, race and identity
+  - Causes and consequences of armed violence
+  - Political violence
+  - International & civil conflict
+  - Quantitative methods
 social:
   - display:
       header: false
     link: mailto:freibera@tcd.ie
     icon_pack: far
     icon: envelope
-interests:
-- Gender, race and identity
-- Causes and consequences of armed violence
-- Political violence
-- International & civil conflict
-- Quantitative methods
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/amelie-freiberg-00457313a/
+    icon_pack: fab
+    icon: linkedin
 education:
   courses:
     - course: PhD in Political Science, 2024 (expected)
