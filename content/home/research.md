@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: "https://www.coursera.org"
+- certificate_url: https://www.coursera.org
   date_end: ""
   date_start: "2019-06-01"
   description: Resources and Rape: Patterns of wartime rape in activist insurgencies
