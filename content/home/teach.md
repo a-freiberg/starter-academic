@@ -3,18 +3,17 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ""
-    location: California
-    date_start: 2017-01-01
+  - title: Teaching Assistant
+    company: Trinity College, Dublin – Department of Political Science
+    company_url: "https://www.tcd.ie/Political_Science/"
+    location: Dublin, Ireland
+    date_start: 2020-09-01
     date_end: ""
     description: |-2
-        Responsibilities include:
+        Courses:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * POU11011 Introduction to Political Science (Undergraduate)
+        * POU33152 German Politics (Undergraduate)
   - title: Professor
     company: University X
     company_url: ""
