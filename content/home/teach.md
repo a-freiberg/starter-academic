@@ -28,12 +28,12 @@ experience:
     company: Trinity College, Dublin – Department of Political Science
     company_url: https://www.tcd.ie/Political_Science/
     location: Dublin, Ireland
-    date_start: 2019-08-01
-    date_end: 2020-06-31
+    date_start: 2020-04-01
+    date_end: 2020-09-01
     description: |-2
         Courses:
         
-        * Sexual Violence in Armed Conflicts – Patterns of wartime rape in civil wars (Undergraduate)
+        * PO2140 International Relations: Theories of International Politics (Undergraduate)
 widget_id: experience
 headless: true
 weight: 40
