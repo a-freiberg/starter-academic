@@ -24,19 +24,13 @@ date_format: 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_end: ""
-  date_start: "2019-06-01"
-  description: "Resources and Rape: Patterns of wartime rape in activist insurgencies"
-  organization: Amelie Freiberg
-  organization_url: 
-  title: Working papers:
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
+  description: Resources and Rape: Patterns of wartime rape in activist insurgencies
+  organization: Amelie Freiberg
   organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  title: Working papers:
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
