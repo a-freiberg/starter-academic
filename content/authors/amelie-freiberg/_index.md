@@ -1,6 +1,6 @@
 ---
 title: Amelie Freiberg
-role: PhD Candidate
+role: PhD Candidate Trinity College, Dublin – Department of Political Science
 avatar_filename: avatar
 interests:
   - Gender, race and identity
