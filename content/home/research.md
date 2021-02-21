@@ -27,7 +27,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2019-06-01"
-  description: ""
+  description: Resources and Rape: Patterns of wartime rape in activist insurgencies
   organization: Amelie Freiberg
   organization_url: ""
   title: Working papers
