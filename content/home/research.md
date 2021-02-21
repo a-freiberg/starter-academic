@@ -32,12 +32,4 @@ item:
   organization_url: ""
   title: Neural Networks and Deep Learning
   url: ""
-  - certificate_url: ""
-  date_end: ""
-  date_start: "2020-10-01"
-  description: ""
-  organization: Amelie Freiberg
-  organization_url: ""
-  title: Work in Progress
-  url: ""
 ---
