@@ -30,6 +30,6 @@ item:
   description: ""
   organization: Amelie Freiberg
   organization_url: ""
-  title: Neural Networks and Deep Learning
+  title: Working papers
   url: ""
 ---
