@@ -11,7 +11,7 @@ active: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Res'
+title: 'Research'
 subtitle:
 
 # Date format
@@ -27,7 +27,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2019-06-01"
-  description: Resources and Rape: Patterns of wartime rape in activist insurgencies
+  description: ""
   organization: Amelie Freiberg
   organization_url: ""
   title: Working papers
