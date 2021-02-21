@@ -73,4 +73,4 @@ subtitle = ""
 
 ## Work in Progress
 * "Sexual violence in armed conflicts: Patterns of wartime rape activist and opportunist insurgencies"
-* "xplaining insurgent violence against civilians: Insurgent capacity and leadership"
+* "Explaining insurgent violence against civilians: Insurgent capacity and leadership"
