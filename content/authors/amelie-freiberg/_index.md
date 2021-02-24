@@ -24,6 +24,11 @@ social:
     link: https://twitter.com/ameliefreiberg
     icon_pack: fab
     icon: twitter
+  - display:
+      header: false
+    link: https://ameliefreiberg.com/media/CV_Amelie_Freiberg_PhD_Feb_21.pdf
+    icon_pack: ai
+    icon: CV
 organizations:
   - name: Trinity College, Dublin – Department of Political Science
     url: https://www.tcd.ie/Political_Science/
