@@ -53,9 +53,9 @@ Trinity College Dublin.\
 I specialize in conflict research and my research interests are\
 explaining sexual violence in armed conflicts and insurgent behaviour.\
 My dissertation seeks to explain and predict socialisation patterns by\
-insurgent groups in connection to sexual violence committed those\
+insurgent groups in connection to sexual violence committed by those\
 groups.\
 \
-Besides my work, I am passionate about dogs, cats, plants and knitting.
+Besides my work, I am passionate about pets, plants, scrapbooking and knitting.
 
 <!--EndFragment-->
