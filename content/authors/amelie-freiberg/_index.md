@@ -62,8 +62,9 @@ groups.\
 \
 Besides my work, I am passionate about pets, plants, scrapbooking and knitting.
 
-Upcoming presentations: \
-- IAPSS Virtual World Congress 2021 (11 - 14.05.2021) \
-- EPSA 2021 (24 & 25.06.2021)
+Upcoming presentations: 
+
+* IAPSS Virtual World Congress 2021 (11 - 14.05.2021) 
+* EPSA 2021 (24 & 25.06.2021)
 
 <!--EndFragment-->
