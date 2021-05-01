@@ -75,4 +75,4 @@ subtitle = ""
 ## Work in Progress
 * "Sexual violence in armed conflicts: Patterns of wartime rape activist and opportunist insurgencies"
 * "Explaining insurgent violence against civilians: Insurgent capacity and leadership"
-* "Explaining low levels of conflict-related sexual violence: Influence of political education of rebel fragmentation"  
+* "Explaining low levels of conflict-related sexual violence: Influence of political education on rebel fragmentation"  
