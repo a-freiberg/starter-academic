@@ -25,7 +25,7 @@ social:
     icon: twitter
   - display:
       header: false
-    link: https://ameliefreiberg.com/media/CV_Amelie_Freiberg_PhD_Feb_21.pdf
+    link: https://ameliefreiberg.com/media/CV_Amelie_Freiberg_PhD_May_21.pdf
     icon_pack: ai
     icon: cv
 organizations:
