@@ -51,7 +51,7 @@ I am a Ph.D. candidate and teaching assistant at the Department of\
 Political Science at Trinity College Dublin.\
 \
 I received a B.A. in Political Science and English Studies from the\
-University of Mannheim and an M.Sc. in International Politics from\
+University of Mannheim and a M.Sc. in International Politics from\
 Trinity College Dublin.\
 \
 I specialize in conflict research and my research interests are\
