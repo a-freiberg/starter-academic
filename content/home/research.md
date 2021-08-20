@@ -70,9 +70,11 @@ subtitle = ""
 
 ## Working Papers
 * "Resources and Rape: Patterns of wartime rape in activist insurgencies" 
-  This paper will be presented at IAPSS Virtual World Congress 2021 and EPSA 2021
+  This paper will be presented to the Conflict Research Society
+* "Explaining low levels of conflict-related sexual violence: Influence of political education on rebel fragmentation"  
+  This paper will be presented at the AfK workshop 2021
 
 ## Work in Progress
 * "Sexual violence in armed conflicts: Patterns of wartime rape activist and opportunist insurgencies"
 * "Explaining insurgent violence against civilians: Insurgent capacity and leadership"
-* "Explaining low levels of conflict-related sexual violence: Influence of political education on rebel fragmentation"  
+
