@@ -1,6 +1,6 @@
 ---
 title: Amelie Freiberg
-role: PhD Candidate
+role: PhD Student
 interests:
   - Gender, race and identity
   - Causes and consequences of armed violence
@@ -47,7 +47,7 @@ superuser: true
 <!--StartFragment-->
 
 Welcome! I am Amelie.\
-I am a Ph.D. student and teaching assistant at the Department of\
+I am a Ph.D. Student and teaching assistant at the Department of\
 Political Science at Trinity College Dublin.\
 \
 I received a B.A. in Political Science and English Studies from the\
