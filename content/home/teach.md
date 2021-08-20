@@ -12,8 +12,9 @@ experience:
     description: |-2
         Courses:
         
-        * POU11011 Introduction to Political Science (Undergraduate)
-        * POU33152 German Politics (Undergraduate)
+        * POU11011 Introduction to Political Science (Undergraduate) (Fall 2020)
+        * POU33152 German Politics (Undergraduate) (Spring 2021)
+        * 
   - title: Lecturer
     company: University of Konstanz – International Politics Chair Prof. Gerald Schneider
     company_url: https://www.polver.uni-konstanz.de/en/
