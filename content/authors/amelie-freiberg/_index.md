@@ -64,7 +64,7 @@ Besides my work, I am passionate about pets, plants, scrapbooking and knitting.
 
 Upcoming presentations: 
 
-* IAPSS Virtual World Congress 2021 (11 - 14.05.2021) 
-* EPSA 2021 (24 & 25.06.2021)
+* Conflict Research Society (08.09 - 10.09)
+* Annual workshop of the working group on empirical methods of the German Association for Peace and Conflict Studies (Arbeitsgemeinschaft für Friedens- und Konfliktforschung – AFK), Goethe Universität Frankfurt (23.09 & 24.09)
 
 <!--EndFragment-->
