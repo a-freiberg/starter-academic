@@ -1,6 +1,6 @@
 ---
 title: Amelie Freiberg
-role: PhD Candidate
+role: PhD Student
 interests:
   - Gender, race and identity
   - Causes and consequences of armed violence
