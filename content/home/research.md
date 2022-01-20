@@ -69,10 +69,12 @@ subtitle = ""
 +++
 
 ## Working Papers
+* "Why insurgents rape: The influence of non-violent socialisation on conflict-related sexual violence" 
+* 
 * "Resources and Rape: Patterns of wartime rape in activist insurgencies" 
-  This paper will be presented to the Conflict Research Society
-* "Explaining low levels of conflict-related sexual violence: Influence of political education on rebel fragmentation"  
-  This paper will be presented at the AfK workshop 2021
+  
+* "No brothers in arms: The influence of non-violent socialisation on rebel fragmentation"  
+  
 
 ## Work in Progress
 * "Sexual violence in armed conflicts: Patterns of wartime rape activist and opportunist insurgencies"
