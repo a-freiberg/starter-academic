@@ -70,7 +70,7 @@ subtitle = ""
 
 ## Working Papers
 * "Why insurgents rape: The influence of non-violent socialisation on conflict-related sexual violence" 
-* 
+
 * "Resources and Rape: Patterns of wartime rape in activist insurgencies" 
   
 * "No brothers in arms: The influence of non-violent socialisation on rebel fragmentation"  
