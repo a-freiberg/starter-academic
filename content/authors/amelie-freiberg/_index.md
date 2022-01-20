@@ -57,14 +57,10 @@ Trinity College Dublin.\
 I specialize in conflict research and my research interests are\
 explaining sexual violence in armed conflicts and insurgent behaviour.\
 My dissertation seeks to explain and predict socialisation patterns by\
-insurgent groups in connection to sexual violence committed by those\
-groups.\
+insurgent groups in connection to conflict-related sexual violence.\
 \
 Besides my work, I am passionate about pets, plants, scrapbooking and knitting.
 
-Upcoming presentations: 
 
-* Conflict Research Society (08.09 - 10.09)
-* Annual workshop of the working group on empirical methods of the German Association for Peace and Conflict Studies (Arbeitsgemeinschaft für Friedens- und Konfliktforschung – AFK), Goethe Universität Frankfurt (23.09 & 24.09)
 
 <!--EndFragment-->
