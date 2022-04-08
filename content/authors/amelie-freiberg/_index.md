@@ -47,20 +47,20 @@ superuser: true
 <!--StartFragment-->
 
 Welcome! I am Amelie.\
-I am a Ph.D. Student and teaching assistant at the Department of\
+I am a Ph.D. Student and Teaching Assistant at the Department of\
 Political Science at Trinity College Dublin.\
 \
 I received a B.A. in Political Science and English Studies from the\
 University of Mannheim and a M.Sc. in International Politics from\
-Trinity College Dublin.\
-\
+Trinity College Dublin.
+
 I specialize in conflict research and my research interests are\
 explaining sexual violence in armed conflicts and insurgent behaviour.\
-My dissertation seeks to explain and predict socialisation patterns by\
-insurgent groups in connection to conflict-related sexual violence.\
-\
-Besides my work, I am passionate about pets, plants, scrapbooking and knitting.
+With my work I seek to explain and predict socialisation patterns by\
+insurgent groups in connection to conflict-related sexual violence.
 
+I am working on my thesis: ***"Explaining variation in sexual violence in civil war: Understanding patterns of combatant socialisation"***
 
+Besides my work, I am passionate about pets, plants, and knitting.
 
 <!--EndFragment-->
