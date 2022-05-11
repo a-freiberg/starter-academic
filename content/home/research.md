@@ -71,7 +71,7 @@ subtitle = ""
 ## Working Papers
 * "No brothers in arms: The influence of non-violent socialisation on rebel fragmentation (This paper will be presented at EPSA in June 2022)" 
 * 
-* "Combatant Socialization and Conflict-Related Sexual Violence: Understanding the Effects of Rebels’ Individual-Level Traits (This paper will be presented at Conflict Dynamics Workshop at Nuffiel College (University of Oxfold) and Conflict Research Society conference in Belfast both in September 2022)" 
+* "Combatant Socialization and Conflict-Related Sexual Violence: Understanding the Effects of Rebels’ Individual-Level Traits (This paper will be presented at the Conflict Dynamics Workshop at Nuffield College (University of Oxford) and Conflict Research Society conference in Belfast both in September 2022)" 
 * 
 * "Why insurgents rape: The influence of non-violent socialisation on conflict-related sexual violence" 
 
