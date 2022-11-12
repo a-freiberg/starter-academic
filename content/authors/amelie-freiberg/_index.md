@@ -2,10 +2,12 @@
 title: Amelie Freiberg
 role: PhD Candidate
 interests:
-  - Gender, race and identity
   - Causes and consequences of armed violence
-  - Political violence
-  - International & civil conflict
+  - Conflict-related sexual violence
+  - Socialization and armed group identity
+  - Armed group ideology and institutions
+  - Gender
+  - race and identity
   - Quantitative methods
 social:
   - display:
@@ -61,6 +63,6 @@ insurgent groups in connection to conflict-related sexual violence.
 
 I am working on my thesis: ***"Explaining variation in sexual violence in civil war: Understanding patterns of combatant socialisation"***
 
-Besides my work, I am passionate about pets, plants, and knitting.
+Besides my work, I am passionate about books, pets, plants, and knitting.
 
 <!--EndFragment-->
