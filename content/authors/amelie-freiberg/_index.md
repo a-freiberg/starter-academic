@@ -7,7 +7,7 @@ interests:
   - Socialization and armed group identity
   - Armed group ideology and institutions
   - Gender
-  - race and identity
+  - Race and Identity
   - Quantitative methods
 social:
   - display:
