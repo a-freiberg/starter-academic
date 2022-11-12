@@ -15,6 +15,7 @@ experience:
         * POU11011 Introduction to Political Science (Undergraduate) (Fall 2020)
         * POU33152 German Politics (Undergraduate) (Spring 2021 & Spring 2022)
         * POU11021 Politics and Irish Society (Undergraduate) (Fall 2021)
+        * PO2140 International Relations: Theories of International Politics (Prof. William Phelan)
         
   - title: Lecturer
     company: University of Konstanz – International Politics Chair Prof. Gerald Schneider
