@@ -13,9 +13,10 @@ experience:
         Courses:
         
         * POU11011 Introduction to Political Science (Undergraduate) (Fall 2020)
-        * POU33152 German Politics (Undergraduate) (Spring 2021 & Spring 2022)
+        * POU33152 German Politics (Undergraduate) (Spring 2021, 2022, 2023)
         * POU11021 Politics and Irish Society (Undergraduate) (Fall 2021)
         * PO2140 International Relations: Theories of International Politics (Prof. William Phelan)
+        * POU33102 Political Violence B: Political Violence and Conflict in Comparative Context (Prof. Dino Hadzic)
         
   - title: Lecturer
     company: University of Konstanz – International Politics Chair Prof. Gerald Schneider
