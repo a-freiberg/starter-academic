@@ -63,6 +63,11 @@ insurgent groups in connection to conflict-related sexual violence.
 
 I am working on my thesis: ***"Explaining variation in sexual violence in civil war: Understanding patterns of combatant socialisation"***
 
+I am conducting the **“Socialisation & Political Education in Rebel Groups**” (SPERG) project.\
+The SPERG Project dataset measures how rebel groups utilize political education to facilitate socialization among their members in more than 240 rebel organizations between 1946-2011. You can reach the project under: sperg_project@tcd.ie
+
+<!--EndFragment-->
+
 Besides my work, I am passionate about books, pets, plants, and knitting.
 
 <!--EndFragment-->
