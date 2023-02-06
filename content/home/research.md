@@ -70,10 +70,11 @@ subtitle = ""
 
 ## Working Papers
 * "No brothers in arms: The influence of non-violent socialisation on rebel fragmentation" 
-* "Combatant Socialization and Conflict-Related Sexual Violence: Understanding the Effects of Rebels’ Individual-Level Traits (This paper will be presented at the Conflict Dynamics Workshop at Nuffield College (University of Oxford) and Empirical Peace and Conflict Research Workshop in September 2022)" 
+* "Combatant Socialization and Conflict-Related Sexual Violence: Understanding the Effects of Rebels’ Individual-Level Traits" 
 * "Why insurgents rape: The influence of non-violent socialisation on conflict-related sexual violence" 
-* "Resources and Rape: Patterns of wartime rape in activist insurgencies" 
+* "Resources and Rape: Patterns of wartime rape in activist insurgencies"
   
+ 
  
 
 ## Work in Progress
