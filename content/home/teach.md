@@ -37,8 +37,8 @@ experience:
     description: |-2
         Courses:
         
-        * PO2140 International Relations: Theories of International Politics (Undergraduate)
-        * PO2141 International Relations: Topics and Treaties (Undergraduate)
+        * PO2140 International Relations: Theories of International Politics (Prof. William Phelan) 
+        * PO2141 International Relations: Topics and Treaties (Prof. William Phelan)
 widget_id: experience
 headless: true
 weight: 40
