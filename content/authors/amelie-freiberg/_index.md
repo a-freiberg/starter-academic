@@ -66,6 +66,10 @@ I am working on my thesis: ***"Explaining variation in sexual violence in civil 
 I am conducting the **“*Socialisation & Political Education in Rebel Groups***” (SPERG) project.\
 The SPERG Project dataset measures how rebel groups utilize political education to facilitate socialization among their members in more than 240 rebel organizations. You can reach the project under: sperg_project@tcd.ie
 
+I will present this project at the ISA 2023 Annunal Convention (March 15th - 18th, 2023) in Montreal. 
+
+<!--EndFragment-->
+
 Besides my work, I am passionate about books, pets, plants, and knitting.
 
 <!--EndFragment-->
