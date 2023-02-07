@@ -70,7 +70,7 @@ subtitle = ""
 
 ## Working Papers
 * "No brothers in arms: The influence of non-violent socialisation on rebel fragmentation" 
-* "Combatant Socialization and Conflict-Related Sexual Violence: Understanding the Effects of Rebels’ Individual-Level Traits" 
+* "Conflict-related sexual violence: Understanding the influence of rebels’ traits on strategies of combatant socialisation" 
 * "Why insurgents rape: The influence of non-violent socialisation on conflict-related sexual violence" 
 * "Resources and Rape: Patterns of wartime rape in activist insurgencies"
   
