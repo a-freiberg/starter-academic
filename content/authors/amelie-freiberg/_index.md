@@ -64,7 +64,7 @@ insurgent groups in connection to conflict-related sexual violence.
 I am working on my thesis: ***"Explaining variation in sexual violence in civil war: Understanding patterns of combatant socialisation"***
 
 I am conducting the **“*Political Education in Rebel Groups***” (PERG) project.\
-The SPERG Project dataset measures how rebel groups utilize political education to facilitate socialization among their members in more than 240 rebel organizations. You can reach the project under: freibera@tcd.ie
+The PERG Project dataset measures how rebel groups utilize political education to facilitate socialization among their members. You can reach the project under: freibera@tcd.ie
 
 I will present this project at the ISA 2023 Annunal Convention (March 15th - 18th, 2023) in Montreal. 
 
