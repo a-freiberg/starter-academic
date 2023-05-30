@@ -64,9 +64,7 @@ insurgent groups in connection to conflict-related sexual violence.
 I am working on my thesis: ***"Explaining variation in sexual violence in civil war: Understanding patterns of combatant socialisation"***
 
 I am conducting the **“*Socialisation and Political Education in Rebel Groups***” (SOPERG) data project.\
-The SOPERG Project dataset measures how rebel groups utilize political education to facilitate socialization among their members. You can reach the project under: freibera@tcd.ie
-
-I will present this project at the Jan Tinbergen European Peace Science Conference (June 26th - 28th, 2023) in Bologna.
+The SOPERG Project dataset measures how rebel groups utilize political education to facilitate socialization among their members. e
 
 Interested in my research? Check out the episode of the CRSV Podcast. Where I talk about my research on Conflict-related sexual violence and combatant socialization\
 You can find it here: <https://www.crsvobservatory.com/podcast/episode/55949ad6/episode-19-amelie-freiberg>
