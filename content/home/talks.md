@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Upcoming-Talks
 weight: 70
-title: Recent & Upcoming Talks
+title: Recent & Upcoming Conferences
 subtitle: null
 active: true
 content:
