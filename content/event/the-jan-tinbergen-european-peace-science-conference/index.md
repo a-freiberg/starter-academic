@@ -13,6 +13,8 @@ all_day: true
 links:
   - url: https://twitter.com/ameliefreiberg
     icon: twitter
+    name: Follow
+    icon_pack: fab
 event: The Jan Tinbergen European Peace Science Conference
 event_url: https://www.europeanpeacescientists.org/jan-tinbergen-european-peace-science-conference/
 publishDate: 2023-06-13T19:44:26.084Z
