@@ -25,3 +25,7 @@
     url = "media/CV_Amelie_Freiberg_PhD_Nov2022.pdf"
     weight = 70
  
+ [[main]]
+  name = "Upcoming Conferences"
+  url = "#talks"
+  weight = 10
