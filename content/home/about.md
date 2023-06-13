@@ -1,7 +1,7 @@
 ---
 widget: about
 headless: true
-weight: 20
+weight: 0
 title: ""
 active: true
 author: amelie-freiberg
