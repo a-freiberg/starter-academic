@@ -56,7 +56,7 @@ University of Mannheim and a M.Sc. in International Politics from\
 Trinity College Dublin.
 
 I specialize in conflict research and my research interests are explaining sexual violence in armed conflicts and insurgent behaviour.\
-In my thesis "***"Explaining variation in sexual violence in civil war: Understanding patterns of combatant socialisation"***,I focus on explaining and predicting socialisation patternsby rebel groups in connection to conflict-related sexual violence.
+In my thesis "***"Explaining variation in sexual violence in civil war: Understanding patterns of combatant socialisation"***, I focus on explaining and predicting socialisation patterns by rebel groups in connection to conflict-related sexual violence.
 
 As part of my thesis I am conducting the **“*Socialisation and Political Education in Rebel Groups***” (SOPERG) data project. The SOPERG Project dataset measures how African rebel groups utilize political education to facilitate socialization among their members. 
 
