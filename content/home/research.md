@@ -69,15 +69,9 @@ subtitle = ""
 +++
 
 ## Working Papers
-* "No brothers in arms: The influence of non-violent socialisation on rebel fragmentation" 
-* "Conflict-related sexual violence: Understanding the influence of rebels’ traits on strategies of combatant socialisation" 
-* "Why insurgents rape: The influence of non-violent socialisation on conflict-related sexual violence" 
-* "Resources and Rape: Patterns of wartime rape in activist insurgencies"
+* "Freiberg, Amelie. "Confict-Related Sexual Violence: Understanding the Infuence of Rebels' Traits on Strategies of Combatant Socialisation."" 
+* "Freiberg, Amelie. "How Rebel Groups Socialise: Introducing the Socialisation and Political Education in Rebel Groups (SOPERG) Data Project."" 
+* "Freiberg, Amelie. "Not Brothers in Arms: The Infuence of Non-violent Socialisation on Rebel Fragmentation."" 
+* "Freiberg, Amelie. "Resources and Rape: Unravelling Patterns of Confict-Related Sexual Violence in Ideological Rebel Groups.""
+* "Freiberg, Amelie. "Why Insurgents Rape: The Infuence of Non-violent Socialisation on Confict-Related Sexual Violence.""
   
- 
- 
-
-## Work in Progress
-* "Sexual violence in armed conflicts: Patterns of wartime rape activist and opportunist insurgencies"
-* "Explaining insurgent violence against civilians: Insurgent capacity and leadership"
-
