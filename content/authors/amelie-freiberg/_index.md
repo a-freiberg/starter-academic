@@ -1,7 +1,7 @@
 ---
 title: Amelie Freiberg
 role: PhD Candidate
-avatar_filename: 3-edit.jpg
+avatar_filename: avatar.jpg
 interests:
   - Conflict-Related Sexual Violence
   - Gender and Conflict
