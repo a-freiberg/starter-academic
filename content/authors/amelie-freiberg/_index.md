@@ -1,7 +1,7 @@
 ---
 title: Amelie Freiberg
 role: PhD Candidate
-avatar_filename: 3.jpg
+avatar_filename: amelie-photo-cut.jpg
 interests:
   - Causes and consequences of armed violence
   - Conflict-related sexual violence
