@@ -3,13 +3,11 @@ title: Amelie Freiberg
 role: PhD Candidate
 avatar_filename: 3.jpg
 interests:
-  - Causes and consequences of armed violence
-  - Conflict-related sexual violence
-  - Socialization and armed group identity
-  - Armed group ideology and institutions
-  - Gender
-  - Race and Identity
-  - Quantitative methods
+  - Conflict-Related Sexual Violence
+  - Gender and Conflict
+  - Rebel Groups
+  - African Politics
+  - Research Methodology
 social:
   - display:
       header: false
