@@ -57,9 +57,11 @@ Trinity College Dublin.
 I specialize in conflict research and my research interests are explaining sexual violence in armed conflicts and insurgent behaviour.\
 In my thesis ***"*Sexual Violence in Civil War - Explaining Patterns of Combatant Socialisation*"***, I focus on explaining and predicting socialisation patterns by rebel groups in connection to conflict-related sexual violence.
 
-As part of my thesis I am conducting the **“*Socialisation and Political Education in Rebel Groups***” (SOPERG) data project. The SOPERG Project dataset measures how African rebel groups utilize political education to facilitate socialization among their members. 
+As part of my thesis I am conducting the **“*Socialisation and Political Education in Rebel Groups***” (SOPERG) data project. The SOPERG Project dataset measures how African rebel groups utilize political education to facilitate socialization among their members. The SOPERG data project, provides information on the efforts of political education within rebel organizations in Africa, interstate conflicts between 1989 and 2021, as included in the Sexual Violence in Armed Conflicts (SVAC) Dataset (Cohen and Nordas, 2014). 
 
 I am am happy to discuss this project and my work more generally at freibera@tcd.ie. 
+
+
 
 Interested in my research? Check out the episode of the CRSV Podcast. Where I talk about my research on Conflict-related sexual violence and combatant socialization\
 You can find it here: <https://www.crsvobservatory.com/podcast/episode/55949ad6/episode-19-amelie-freiberg>
