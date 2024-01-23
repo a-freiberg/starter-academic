@@ -48,7 +48,7 @@ superuser: true
 <!--StartFragment-->
 
 Welcome and thank you for visiting my website. I am Amelie Freiberg.\
-I am a Ph.D. Candidate at the [Department of Political Science at Trinity College Dublin](https://www.tcd.ie/Political_Science/), Academic Staff at the [Chair of Political Science, International Relations,](https://www.sowi.uni-mannheim.de/carey/) University Mannheim, and [Civil War Paths](https://www.civilwarpaths.org/) Fellow at the University of York.
+I am a Ph.D. Candidate at the [Department of Political Science at Trinity College Dublin](https://www.tcd.ie/Political_Science/), Academic Staff at the [Chair of Political Science, International Relations,](https://www.sowi.uni-mannheim.de/carey/) [University Mannheim](https://www.uni-mannheim.de/), and [Civil War Paths](https://www.civilwarpaths.org/) Fellow at the University of York.
 
 I received a B.A. in Political Science and English Studies from the University of Mannheim and a M.Sc. in International Politics from Trinity College Dublin.
 
