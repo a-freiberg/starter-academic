@@ -22,7 +22,7 @@
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-    url = "media/CV_Amelie_Freiberg_PhD_Nov2022.pdf"
+    url = "media/CVAmelie_April_2024"
     weight = 70
  
  [[main]]
