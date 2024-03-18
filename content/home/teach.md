@@ -3,6 +3,17 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
+  - title: Lecturer
+    company: University of Mannheim –  Chair of Political Science, International Relations, Prof. Sabine C. Carey, Ph.D.
+    company_url: https://www.tcd.ie/Political_Science/
+    location: Dublin, Ireland
+    date_start: 2024-02-01
+    date_end: ""
+    description: |-2
+        Courses:
+        * Data analysis in conflict research using Stata (Undergraduate) (Spring 2024)
+        * Sexual violence in armed conflicts – Patterns of CRSV in civil wars (Hauptseminar) (Spring 2024)
+
   - title: Teaching Assistant
     company: Trinity College, Dublin – Department of Political Science
     company_url: https://www.tcd.ie/Political_Science/
