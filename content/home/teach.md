@@ -11,6 +11,7 @@ experience:
     date_end: ""
     description: |-2
         Courses:
+   
         * Data analysis in conflict research using Stata (Undergraduate) (Spring 2024)
         * Sexual violence in armed conflicts – Patterns of CRSV in civil wars (Hauptseminar) (Spring 2024)
         
