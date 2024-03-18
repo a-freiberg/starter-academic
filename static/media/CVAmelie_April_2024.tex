@@ -1,0 +1,355 @@
+\documentclass[10pt]{article}
+
+\usepackage{calc}
+\usepackage{comment}
+\usepackage{textcomp}
+
+
+\makeatletter
+\newlength{\bibhang}
+\setlength{\bibhang}{1em} 
+\newlength{\bibsep}
+ {\@listi \global\bibsep\itemsep \global\advance\bibsep by\parsep}
+\newenvironment{bibsection}
+        {\begin{enumerate}{}{
+       \setlength{\leftmargin}{\bibhang}
+       \setlength{\itemindent}{-\leftmargin}
+       \setlength{\itemsep}{\bibsep}
+       \setlength{\parsep}{\z@}
+        \setlength{\partopsep}{0pt}
+        \setlength{\topsep}{0pt}}}
+        {\end{enumerate}\vspace{-.6\baselineskip}}
+\makeatother
+
+\reversemarginpar
+
+% \usepackage[paper=letterpaper,
+           % marginparwidth=1.2in,   
+           % marginparsep=0.05in,  
+           % margin=0.75in,     
+           % includemp]{geometry}
+           
+\usepackage[paper=letterpaper,
+           marginparwidth=1.2in,   
+           marginparsep=0.05in,  
+           left=0.725in, top=1in, right=0.725in, bottom=1in,
+           includemp]{geometry}
+
+
+\setlength{\parindent}{0in}
+
+\usepackage[shortlabels]{enumitem}
+
+\usepackage{fancyhdr,lastpage}
+% \pagestyle{empty}
+\fancyhf{}\renewcommand{\headrulewidth}{0pt}
+\fancyfootoffset{\marginparsep+\marginparwidth}
+\newlength{\footpageshift}
+\setlength{\footpageshift}
+          {0.5\textwidth+0.5\marginparsep+0.5\marginparwidth-2in}
+\lfoot{\hspace{\footpageshift}
+       \parbox{4in}{\, \hfill 
+                    \arabic{page} of \protect\pageref*{LastPage} 
+                    \hfill \,}}
+
+\usepackage{color,hyperref}
+\definecolor{darkblue}{rgb}{0.0,0.0,0.3}
+\hypersetup{colorlinks,breaklinks,
+            linkcolor=darkblue,urlcolor=darkblue,
+            anchorcolor=darkblue,citecolor=darkblue}
+
+\newcommand{\makeheading}[2][]
+        {\hspace*{-\marginparsep minus \marginparwidth}
+         \begin{minipage}[t]{\textwidth+\marginparwidth+\marginparsep}
+             {\large \bfseries #1 \hfill #1}\\[-0.15\baselineskip]
+                 \rule{\columnwidth}{1pt}
+         \end{minipage}}
+
+\renewcommand{\section}[1]{\pagebreak[3]
+    \hyphenpenalty=10000
+    \vspace{1.3\baselineskip}
+    \phantomsection\addcontentsline{toc}{section}{#1}
+    \noindent\llap{\scshape\smash{\parbox[t]{\marginparwidth}{\raggedright #1}}}
+    \vspace{-\baselineskip}\par}
+
+\newenvironment{outerlist}[1][\enskip\textbullet]
+        {\begin{itemize}[#1,leftmargin=*]}{\end{itemize}
+         \vspace{-.6\baselineskip}}
+
+\newenvironment{lonelist}[1][\enskip\textbullet]
+        {\begin{list}{#1}{
+        \setlength{\partopsep}{0pt}
+        \setlength{\topsep}{0pt}}}
+        {\end{list}\vspace{-.6\baselineskip}}
+
+\newenvironment{innerlist}[1][\enskip\textbullet]
+        {\begin{itemize}[#1,leftmargin=*,parsep=0pt,itemsep=0pt,topsep=0pt,partopsep=0pt]}
+        {\end{itemize}}
+
+\newenvironment{loneinnerlist}[1][\enskip\textbullet]%
+        {\begin{itemize}[#1,leftmargin=*,parsep=0pt,itemsep=0pt,topsep=0pt,partopsep=0pt]}
+        {\end{itemize}\vspace{-.6\baselineskip}}
+
+\newcommand{\blankline}{\quad\pagebreak[3]}
+\newcommand{\halfblankline}{\quad\vspace{-0.5\baselineskip}\pagebreak[3]}
+
+\newcommand\doilink[1]{\href{http://dx.doi.org/#1}{#1}}
+\newcommand\doi[1]{doi:\doilink{#1}}
+
+\providecommand*\url[1]{\href{#1}{#1}}
+\renewcommand*\url[1]{\href{#1}{\texttt{#1}}}
+
+\providecommand*\email[1]{\href{mailto:#1}{#1}}
+
+\providecommand\BibTeX{{B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    \TeX}}
+\providecommand\Matlab{\textsc{Matlab}}
+
+\begin{document}
+
+
+\begin{center}
+\hspace{-3.15cm} \Huge{Amelie Freiberg}
+\end{center}
+\vspace{-0.75cm}
+\makeheading{\LARGE{Amelie Freiberg}} 
+
+\section{Contact Information}
+
+\newlength{\rcollength}\setlength{\rcollength}{1.6in}
+
+\begin{tabular}[t]{@{}p{\textwidth-\rcollength}p{\rcollength}}
+
+
+Chair of Political Science, International Relations &  \hspace{-2.22cm} Email: \href{mailto:freibera@tcd.ie}{freibera@tcd.ie} \\
+University of Mannheim  &      \hspace{-2.22cm} Website:  \href{https://ameliefreiberg.com/}{ameliefreiberg.com} \\
+A 5, 6  &      			\hspace{-2.22cm} Office: A5,6  B123 \\  
+68159 Mannheim   & 						\hspace{-2.22cm} X (Twitter): \href{https://twitter.com/ameliefreiberg}{@AmelieFreiberg} \\ 
+Germany  & \\
+\end{tabular}
+
+\vspace{0.25cm}
+\section{Academic positions}
+
+\textbf{University of Mannheim} 
+\begin{outerlist}
+
+\item[]Postdoctoral researcher   
+            
+ 
+\end{outerlist}
+
+\vspace{0.25cm}
+\section{Education}
+
+\textbf{Trinity College Dublin} 
+\begin{outerlist}
+
+\item[] Ph.D., Political Science, expected 2024  
+            
+             Dissertation: \emph{Sexual Violence in Civil War $-$ Explaining Patterns of Combatant Socialisation}
+
+             Supervisor: Dino Hadzic
+        
+\end{outerlist}
+\vspace{.15in}
+\textbf{Trinity College Dublin}
+\begin{outerlist}
+
+\item[] M.Sc., {International Politics}, 2020 
+            
+             Dissertation: \emph{Resources and Rape $-$ Patterns of Wartime Rape in Activist Insurgencies}  
+
+             Supervisor: Liam Kneafsey
+        
+\end{outerlist}
+\vspace{.15in}
+\textbf{University of Mannheim}
+\begin{outerlist}
+\item[] B.A.,
+             {Political Science, English and American Studies}, 2017
+\end{outerlist}
+
+\section{Research Interests}
+Conflict-Related Sexual Violence, Gender and Conflict, Rebel Groups, African Politics, Research Methodology
+
+
+\section{Working \\ Papers}
+
+	Freiberg, Amelie. ``How Rebel Groups Socialise: Introducing the Socialisation and Political Education in Rebel Groups (SOPERG) Data Project.''\\
+
+	Freiberg, Amelie. ``Conflict-Related Sexual Violence: Understanding the Influence of Rebels’ Traits on Strategies of Combatant Socialisation.''\\
+
+	Freiberg, Amelie. ``Not Brothers in Arms: The Influence of Non-violent Socialisation on Rebel Fragmentation.''\\
+	
+	Freiberg, Amelie. ``Resources and Rape: Unravelling Patterns of Conflict-Related Sexual Violence in Ideological Rebel Groups.'' \\
+					     				
+	Freiberg, Amelie. ``Why Insurgents Rape: The Influence of Non-violent Socialisation on Conflict-Related Sexual Violence.''
+
+
+\section{Teaching}
+
+Instructor of Record, University of Mannheim
+%\begin{outerlist}
+\begin{itemize}
+\item Sexual Violence in Armed Conflicts: Patterns of CRSV in Civil Wars $-$ Summer 2024
+\item Data analysis in conflict research using Stata$-$ Summer 2024
+\end{itemize}
+
+Instructor of Record, University of Konstanz
+%\begin{outerlist}
+\begin{itemize}
+\item Sexual Violence in Armed Conflicts: Patterns of Wartime Rape in Civil Wars $-$ Summer 2020
+\end{itemize}
+
+
+%\end{outerlist}
+
+Graduate Teaching Assistant, Trinity College Dublin
+\begin{itemize}
+\item Politics and Irish Society A and B $-$ Fall 2023, Spring 2023
+\item German Politics $-$ Spring 2021, Spring 2022, Spring 2023
+\item International Relations A: Theories of International Politics $-$ Fall 2018, Fall 2022
+\item International Relations B: Topics and Treaties $-$ Spring 2019
+\item Introduction to Political Science A $-$ Fall 2020
+\item Political Violence B: Political Violence and Conflict in Comparative Context $-$ Spring 2023
+\item Politics and Irish Society A $-$ Fall 2021
+\end{itemize}
+
+\vspace{-0.35cm}
+
+\section{Fellowships\\}
+2023-2024:  Civil War Paths Fellow, University of York  
+
+
+\section{Awards and Grants\\}
+
+2024:  TRiSS Travel Bursary Award, Trinity College Dublin $-$ Department of Political Science
+\begin{itemize}
+\item Amount: \texteuro 750
+\end{itemize}
+
+2023:  TRiSS Travel Bursary Award, Trinity College Dublin $-$ Department of Political Science
+\begin{itemize}
+\item Amount: \texteuro 470
+\end{itemize}
+
+2023:  Nominee for Dermot McAleese Teaching Award, Trinity College Dublin $-$ Department of Political Science\\
+
+2020-present:  Ph.D. Scholarship, Trinity College Dublin $-$ Department of Political Science
+\begin{itemize}
+\item Amount: \texteuro 21.500 annually
+\end{itemize}
+\vspace{0.15cm}
+2020:  Upper Second Class Honours, M.Sc. International Politics, Trinity College Dublin $-$ Department of Political Science\\
+
+2017 : First Class Honours, B.A. Political Science, English and American Studies, University of Mannheim\\
+
+2016: Erasmus Scholarship, University of Limerick 
+\begin{itemize}
+\item Amount: \texteuro 1750
+\end{itemize}
+
+\vspace{-0.25cm}
+\section{Conference \\Participation}
+2024: International Studies Association Annual Convention (presenter)\\
+
+2023: International Studies Association Annual Convention (presenter), Jan Tinbergen European Peace Science Conference (chair and presenter)\\
+
+2022: European Political Science Association Annual Conference (presenter)\\
+
+2021: Conflict Research Society Annual Conference (presenter), European Political Science Association Annual Conference (presenter), International Association for Political Science Students World Congress (presenter), Political Studies Association of Ireland Postgraduate Conference (presenter)
+
+
+\section{Workshop \\Participation}
+
+2023: Conflict and Change $-$ University College London (presenter), Annual Workshop of the Working Group on Empirical Methods of the German Association for Peace and Conflict Studies $-$ The Universität der Bundeswehr München (University of the Federal Armed Forces in Munich), Munich (presenter), Conflict Dynamics $-$ University of York (presenter)\\
+
+2022: Annual Workshop of the Working Group on Empirical Methods of the German Association for Peace and Conflict Studies $-$ Aarhus University (discussant and presenter), Conflict Dynamics $-$ Nuffield College, Oxford (presenter), Women's Labour in Rebel Governance and Civil Wars $-$ Swedish Defence University (discussant and presenter)\\
+
+2021: Annual Workshop of the Working Group on Empirical Methods of the German Association for Peace and Conflict Studies $-$ Goethe University Frankfurt (discussant and presenter)\\
+
+2020: Annual Workshop of the Working Group on Empirical Methods of the German Association for Peace and Conflict Studies $-$ Hertie School (discussant and presenter)
+
+\section{Additional Training}
+2023: Data Science Summer School, Hertie School Data Science Lab\\
+2021: Data Science Summer School, Hertie School Data Science Lab\\
+
+\section{Research Assistance}
+2023: Trinity College Dublin,School of English, Prof. Mark Faulkner, Project: “Searobend: Linked Metadata for English-Language Texts, 1000-1300”\\
+2023: Dublin City University, Prof. Roman-Gabriel Olar, Project: “Autocratic Revolving Doors: The origin and consequences of
+returning autocratic elites”\\
+2021: Trinity College Dublin, School of Religion, Project: Athena Swan Application \\
+
+\section{Non-Academic Engagement}
+2023: The CRSV Observatory $-$ \href{https://castbox.fm/channel/id4945261?country=in}{Episode 19 - Amelie Freiberg} \\
+
+2023: Member of the Gender-Based Violence Community
+
+\section{Service}
+ 2021-2023: Assistant to the Monday Interdisciplinary Seminar Series, Trinity College Dublin $-$ Jean Monnet Centre of Excellence\\
+
+2016-2018: University Ambassador at the Ministry of Science, Research and Arts, Baden-W\"{u}rtte-mberg, Germany
+
+\section{Languages} 
+German (native), English (fluent), Spanish (advanced), French (basic)
+
+\section{Software}
+\LaTeX, \texttt{R}, Stata, Python, SPSS
+
+\section{References}
+
+\vspace{0.125cm}
+\begin{tabular}{lr}
+\begin{minipage}[t]{2.7in}
+\begin{center}
+Dino Hadzic, Ph.D.\\
+Assistant Professor\\					
+Department of Political Science\\
+Trinity College Dublin\\				
+\href{mailto:dhadzic@tcd.ie}{dhadzic@tcd.ie}\\
+\end{center}
+\end{minipage}
+&
+\begin{minipage}[t]{2.7in}
+\begin{center}
+Liam Kneafsey, Ph.D.\\
+Assistant Professor\\
+Department of Political Science\\
+Trinity College Dublin\\
+\href{mailto:lkneafse@tcd.ie}{lkneafse@tcd.ie}\\
+\end{center}
+\end{minipage}
+\\
+\\ 
+%\begin{minipage}[t]{2.7in}
+%\begin{center}
+%Jan Berz, Ph.D.\\
+%Postdoctoral Researcher\\
+%Institute of Political Science\\
+%Goethe University Frankfurt\\
+%\href{mailto:berz@soz.uni-frankfurt.de}{berz@soz.uni-frankfurt.de}\\
+%\end{center}
+%\end{minipage}
+
+\end{tabular}
+%\begin{minipage}[t]{2.7in}
+\begin{center}
+Jan Berz, Ph.D.\\
+Postdoctoral Researcher\\
+Institute of Political Science\\
+Goethe University Frankfurt\\
+\href{mailto:berz@soz.uni-frankfurt.de}{berz@soz.uni-frankfurt.de}\\
+\end{center}
+%\end{minipage}
+
+\vspace{.25cm}
+\begin{center}
+Last updated: 01 April, 2024
+\end{center}
+
+\end{document}
+
+
+
+
