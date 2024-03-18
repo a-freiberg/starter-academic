@@ -10,9 +10,9 @@ experience:
     date_start: 2024-02-01
     description: |-2
         Courses:
+        * Data analysis in conflict research using Stata (Undergraduate) (Spring 2024)
+        * Sexual violence in armed conflicts – Patterns of CRSV in civil wars (Hauptseminar) (Spring 2024)
         
-        * Sexual violence in armed conflicts – Patterns of CRSV in civil wars (Undergraduate)
-        * Data analysis in conflict research using Stata (Undergraduate)
   - title: Teaching Assistant
     company: Trinity College, Dublin – Department of Political Science
     company_url: https://www.tcd.ie/Political_Science/
