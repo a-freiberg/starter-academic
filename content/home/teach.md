@@ -20,7 +20,7 @@ experience:
     company_url: https://www.tcd.ie/Political_Science/
     location: Dublin, Ireland
     date_start: 2020-09-01
-    date_end: ""
+    date_end: "2023-12-31"
     description: |-2
         Courses:
 
