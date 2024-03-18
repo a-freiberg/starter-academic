@@ -5,8 +5,8 @@ date_format: Jan 2006
 experience:
   - title: Lecturer
     company: University of Mannheim –  Chair of Political Science, International Relations, Prof. Sabine C. Carey, Ph.D.
-    company_url: https://www.tcd.ie/Political_Science/
-    location: Dublin, Ireland
+    company_url: https://www.sowi.uni-mannheim.de/carey/
+    location: Mannheim, Germany
     date_start: 2024-02-01
     date_end: ""
     description: |-2
