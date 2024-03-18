@@ -8,6 +8,7 @@ experience:
     company_url: https://www.sowi.uni-mannheim.de/carey/
     location: Mannheim, Germany
     date_start: 2024-02-01
+    date_end: ""
     description: |-2
         Courses:
         * Data analysis in conflict research using Stata (Undergraduate) (Spring 2024)
