@@ -57,7 +57,7 @@ In my thesis ***"*Sexual Violence in Civil War - Explaining Patterns of Combatan
 
 As part of my thesis I am conducting the **“*Socialisation and Political Education in Rebel Groups***” (SOPERG) data project. The SOPERG Project dataset measures how African rebel groups utilize political education to facilitate socialization among their members. The SOPERG data project, provides information on the efforts of political education within rebel organizations in African interstate conflicts between 1989 and 2021, as included in the Sexual Violence in Armed Conflicts (SVAC) Dataset (Cohen and Nordas, 2014). 
 
-Read more about the SOPERG project in the [Civil War Paths](https://www.civilwarpaths.org/) [blog](https://www.civilwarpaths.org/blog/): [From Books to Bullets: The Spectrum of Political Education in Rebel Groups](https://www.civilwarpaths.org/from-books-to-bullets-the-spectrum-of-political-education-in-rebel-groups/). 
+Read more about the SOPERG project in the Civil War Paths blog: [From Books to Bullets: The Spectrum of Political Education in Rebel Groups](https://www.civilwarpaths.org/from-books-to-bullets-the-spectrum-of-political-education-in-rebel-groups/). 
 
 I am am happy to discuss this project and my work more generally at freibera@tcd.ie. 
 
