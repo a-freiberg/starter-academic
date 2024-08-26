@@ -53,7 +53,7 @@ I am a Ph.D. Candidate at the [Department of Political Science at Trinity Colleg
 I received a B.A. in Political Science and English Studies from the University of Mannheim and a M.Sc. in International Politics from Trinity College Dublin.
 
 I specialize in conflict research and my research interests are explaining sexual violence in armed conflicts and insurgent behaviour.\
-In my thesis ***"*Education, Indoctrination and Conflict: The Role of Political Education on Shaping Combatant Behaviour and Sexual Vioelcne in Civil War*"***, I focus on explaining and predicting socialisation patterns by rebel groups in connection to conflict-related sexual violence.
+In my thesis ***"*Education, Indoctrination and Conflict: The Role of Political Education on Shaping Combatant Behaviour and Sexual Violence in Civil War*"***, I focus on explaining and predicting socialisation patterns by rebel groups in connection to conflict-related sexual violence.
 
 As part of my thesis I am conducting the **“*Socialisation and Political Education in Rebel Groups***” (SOPERG) data project. The SOPERG Project dataset measures how African rebel groups utilize political education to facilitate socialization among their members. The SOPERG data project, provides information on the efforts of political education within rebel organizations in African interstate conflicts between 1989 and 2021, as included in the Sexual Violence in Armed Conflicts (SVAC) Dataset (Cohen and Nordas, 2014). 
 
