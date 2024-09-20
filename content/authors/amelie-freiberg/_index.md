@@ -61,8 +61,7 @@ Read more about the SOPERG project in the Civil War Paths blog: [From Books to B
 
 I am am happy to discuss this project and my work more generally at freibera@tcd.ie. 
 
-Interested in my research? Check out the episode of the CRSV Observatory Podcast. Where I talk about my research on Conflict-related sexual violence and combatant socialization\
-You can find it here: https://castbox.fm/channel/id4945261?country=in[](https://www.crsvobservatory.com/podcast/episode/55949ad6/episode-19-amelie-freiberg)
+Interested in my research? Check out the episode of the CRSV Observatory Podcast. Where I talk about my research on Conflict-related sexual violence and combatant socialization
 
 Besides my work, I am passionate about books, pets, plants, and knitting.
 
