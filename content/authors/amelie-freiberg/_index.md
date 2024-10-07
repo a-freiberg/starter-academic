@@ -34,7 +34,7 @@ organizations:
     url: https://www.tcd.ie/Political_Science/
 education:
   courses:
-    - course: PhD in Political Science, 2024 (expected)
+    - course: PhD in Political Science, 2024 (submitted Viva Vice 05.12.2024)
       institution: Trinity College Dublin, Ireland
       year: ""
     - course: M.Sc. in International Politics
