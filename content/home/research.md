@@ -69,9 +69,9 @@ subtitle = ""
 +++
 
 ## Working Papers
-* "Freiberg, Amelie. "Confict-Related Sexual Violence: Understanding the Infuence of Rebels' Traits on Strategies of Combatant Socialisation."" 
 * "Freiberg, Amelie. "How Rebel Groups Socialise: Introducing the Socialisation and Political Education in Rebel Groups (SOPERG) Data Project."" 
-* "Freiberg, Amelie. "Not Brothers in Arms: The Infuence of Non-violent Socialisation on Rebel Fragmentation."" 
-* "Freiberg, Amelie. "Resources and Rape: Unravelling Patterns of Confict-Related Sexual Violence in Ideological Rebel Groups.""
+* "Freiberg, Amelie. "Replacing Rape with Rhetoric: Political Education and its Impact on Conflict-related Sexual Violence."" 
+* "Freiberg, Amelie. "Brothers in Arms: The Influence of Political Education on Rebel Fragmentation."" 
+* "Freiberg, Amelie. "Conflict-Related Sexual Violence: Understanding the Influence of Rebels’ Traits on Strategies of Combatant Socialisation.""
 * "Freiberg, Amelie. "Why Insurgents Rape: The Infuence of Non-violent Socialisation on Confict-Related Sexual Violence.""
   
