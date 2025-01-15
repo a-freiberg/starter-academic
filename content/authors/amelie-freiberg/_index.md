@@ -1,7 +1,7 @@
 ---
 title: Amelie Freiberg
 role: PhD Political Science
-avatar_filename: avatar.jpg
+avatar_filename: amelie-photo-cut.jpg
 interests:
   - Conflict-Related Sexual Violence
   - Gender and Conflict
