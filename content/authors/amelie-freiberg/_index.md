@@ -1,7 +1,7 @@
 ---
 title: Amelie Freiberg
 role: PhD Political Science
-avatar_filename: amelie-photo-cut.jpg
+avatar_filename: isa-2024.jpg
 interests:
   - Conflict-Related Sexual Violence
   - Gender and Conflict
@@ -52,6 +52,8 @@ Welcome to my website. I am Dr. Amelie Freiberg, a Postdoctoral Researcher at th
 I hold a Ph.D. in Political Science from [Trinity College Dublin](https://www.tcd.ie/Political_Science/), where I also completed my M.Sc. in International Politics. My academic journey began with a B.A. in Political Science and English Studies from the [University Mannheim](https://www.uni-mannheim.de/)
 
 My research centers on conflict studies, with a particular focus on understanding and explaining sexual violence in armed conflicts and insurgent behavior. In my doctoral thesis, titled *"Education, Indoctrination, and Conflict: The Role of Political Education in Shaping Combatant Behaviour and Sexual Violence in Civil War"*, I examined how rebel groups' socialization practices influence conflict-related sexual violence.
+
+My research interests are Armed Conflict, Rebel Groups, Conflict-related Sexual Violence, Rebel Socialisation, Africa
 
 Currently, I lead the **“Socialisation and Political Education in Rebel Groups” (SOPERG)** data project, which investigates how African rebel groups employ political education to socialize their members. This dataset provides insights into the political education efforts of rebel organizations involved in African intrastate conflicts between 1989 and 2021, as documented in the Sexual Violence in Armed Conflicts (SVAC) Dataset.
 
