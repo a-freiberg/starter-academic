@@ -1,6 +1,6 @@
 ---
 title: Amelie Freiberg
-role: PhD Candidate
+role: PhD Political Science
 avatar_filename: avatar.jpg
 interests:
   - Conflict-Related Sexual Violence
@@ -47,22 +47,20 @@ superuser: true
 ---
 <!--StartFragment-->
 
-Welcome and thank you for visiting my website. I am Amelie Freiberg.\
-I am a Ph.D. Candidate at the [Department of Political Science at Trinity College Dublin](https://www.tcd.ie/Political_Science/), Academic Staff at the [Chair of Political Science, International Relations,](https://www.sowi.uni-mannheim.de/carey/) [University Mannheim](https://www.uni-mannheim.de/), and [Civil War Paths](https://www.civilwarpaths.org/) [Fellow](https://www.civilwarpaths.org/the-centre/people/) at the [University of York](https://www.york.ac.uk/).
+Welcome to my website. I am Dr. Amelie Freiberg, a Postdoctoral Researcher at the [](https://www.sowi.uni-mannheim.de/carey/)[Chair of Political Science, International Relations,](https://www.sowi.uni-mannheim.de/carey/) [University Mannheim](https://www.uni-mannheim.de/)
 
-I received a B.A. in Political Science and English Studies from the University of Mannheim and a M.Sc. in International Politics from Trinity College Dublin.
+I hold a Ph.D. in Political Science from [Trinity College Dublin](https://www.tcd.ie/Political_Science/), where I also completed my M.Sc. in International Politics. My academic journey began with a B.A. in Political Science and English Studies from the [University Mannheim](https://www.uni-mannheim.de/)
 
-I specialize in conflict research and my research interests are explaining sexual violence in armed conflicts and insurgent behaviour.\
-In my thesis ***"*Education, Indoctrination and Conflict: The Role of Political Education in Shaping Combatant Behaviour and Sexual Violence in Civil War*"***, I focus on explaining and predicting socialisation patterns by rebel groups in connection to conflict-related sexual violence.
+My research centers on conflict studies, with a particular focus on understanding and explaining sexual violence in armed conflicts and insurgent behavior. In my doctoral thesis, titled *"Education, Indoctrination, and Conflict: The Role of Political Education in Shaping Combatant Behaviour and Sexual Violence in Civil War"*, I examined how rebel groups' socialization practices influence conflict-related sexual violence.
 
-As part of my thesis I am conducting the **“*Socialisation and Political Education in Rebel Groups***” (SOPERG) data project. The SOPERG Project dataset measures how African rebel groups utilize political education to facilitate socialization among their members. The SOPERG data project, provides information on the efforts of political education within rebel organizations in African intrastate conflicts between 1989 and 2021, as included in the Sexual Violence in Armed Conflicts (SVAC) Dataset (Cohen and Nordas, 2014). 
+Currently, I lead the **“Socialisation and Political Education in Rebel Groups” (SOPERG)** data project, which investigates how African rebel groups employ political education to socialize their members. This dataset provides insights into the political education efforts of rebel organizations involved in African intrastate conflicts between 1989 and 2021, as documented in the Sexual Violence in Armed Conflicts (SVAC) Dataset.
 
-Read more about the SOPERG project in the Civil War Paths blog: [From Books to Bullets: The Spectrum of Political Education in Rebel Groups](https://www.civilwarpaths.org/from-books-to-bullets-the-spectrum-of-political-education-in-rebel-groups/). 
+For a deeper understanding of the SOPERG project, you can read my blog post on Civil War Paths: [From Books to Bullets: The Spectrum of Political Education in Rebel Groups](https://www.civilwarpaths.org/from-books-to-bullets-the-spectrum-of-political-education-in-rebel-groups/). [](https://www.civilwarpaths.org/from-books-to-bullets-the-spectrum-of-political-education-in-rebel-groups/)
 
-I am am happy to discuss this project and my work more generally at freibera@tcd.ie. 
+I welcome discussions about my research and can be reached at [freibera@tcd.ie](<>).
 
-Interested in my research? Check out the episode of the CRSV Observatory Podcast. Where I talk about my research on Conflict-related sexual violence and combatant socialization
+If you're interested in my work, I invite you to listen to my episode on the CRSV Observatory Podcast, where I delve into conflict-related sexual violence and combatant socialization.
 
-Besides my work, I am passionate about books, pets, plants, and knitting.
+Beyond my academic pursuits, I have a passion for books, pets, plants, and knitting.
 
 <!--EndFragment-->
