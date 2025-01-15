@@ -11,6 +11,8 @@ experience:
     date_end: ""
     description: |-2
         Courses:
+        * Colloquium: Bachelor Thesis Colloquium in International Relations (Undergraduate) (Spring 2025)
+        * Hauptseminar: Dynamics of War and Peace: Causes, Impacts, and Theories (Undergraduate) (Spring 2025)
         * Proseminar: Causes and Consequences of Armed Conflict (Undergraduate) (Fall 2024)
         * Proseminar: Understanding Political Violence (Undergraduate) (Fall 2024)
         * Übung: Data Analysis in Conflict Research using Stata (Undergraduate) (Spring 2024)
