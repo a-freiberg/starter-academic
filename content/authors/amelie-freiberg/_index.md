@@ -3,11 +3,11 @@ title: Amelie Freiberg
 role: PhD Political Science
 avatar_filename: isa-2024.jpg
 interests:
-  - Conflict-Related Sexual Violence
-  - Gender and Conflict
+  - Armed Conflict
   - Rebel Groups
-  - African Politics
-  - Research Methodology
+  - Conflict-related Sexual Violence
+  - Rebel Socialisation
+  - Africa
 social:
   - display:
       header: false
@@ -30,8 +30,8 @@ social:
     icon_pack: ai
     icon: cv
 organizations:
-  - name: Trinity College, Dublin – Department of Political Science
-    url: https://www.tcd.ie/Political_Science/
+  - name: "University of Mannheim, School of Social Sciences "
+    url: https://www.sowi.uni-mannheim.de/en/
 education:
   courses:
     - course: PhD in Political Science
@@ -47,9 +47,9 @@ superuser: true
 ---
 <!--StartFragment-->
 
-Welcome to my website. I am Dr. Amelie Freiberg, a Postdoctoral Researcher at the [](https://www.sowi.uni-mannheim.de/carey/)[Chair of Political Science, International Relations,](https://www.sowi.uni-mannheim.de/carey/) [University Mannheim](https://www.uni-mannheim.de/)
+Welcome to my website. I am Dr. Amelie Freiberg, a Postdoctoral Researcher at the [](https://www.sowi.uni-mannheim.de/carey/)[Chair of Political Science, International Relations,](https://www.sowi.uni-mannheim.de/carey/) [University of Mannheim](https://www.uni-mannheim.de/)
 
-I hold a Ph.D. in Political Science from [Trinity College Dublin](https://www.tcd.ie/Political_Science/), where I also completed my M.Sc. in International Politics. My academic journey began with a B.A. in Political Science and English Studies from the [University Mannheim](https://www.uni-mannheim.de/)
+I hold a Ph.D. in Political Science from [Trinity College Dublin](https://www.tcd.ie/Political_Science/), where I also completed my M.Sc. in International Politics. My academic journey began with a B.A. in Political Science and English Studies from the [University of Mannheim](https://www.uni-mannheim.de/)
 
 My research centers on conflict studies, with a particular focus on understanding and explaining sexual violence in armed conflicts and insurgent behavior. In my doctoral thesis, titled *"Education, Indoctrination, and Conflict: The Role of Political Education in Shaping Combatant Behaviour and Sexual Violence in Civil War"*, I examined how rebel groups' socialization practices influence conflict-related sexual violence.
 
