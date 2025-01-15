@@ -39,9 +39,9 @@ education:
       year: ""
     - course: M.Sc. in International Politics
       institution: Trinity College Dublin, Ireland
-      year: 2020
+      year: ""
     - course: BA in Political Science and English Studies
-      year: 2017
+      year: ""
       institution: University of Mannheim, Germany
 superuser: true
 ---
