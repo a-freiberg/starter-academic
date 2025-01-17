@@ -1,5 +1,5 @@
 ---
-title: Amelie Freiberg
+title: Dr. Amelie Freiberg
 role: PhD Political Science
 avatar_filename: isa-2024.jpg
 interests:
