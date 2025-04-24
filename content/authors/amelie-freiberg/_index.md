@@ -1,7 +1,7 @@
 ---
 title: Dr. Amelie Freiberg
 role: PhD Political Science
-avatar_filename: isa-2024.jpg
+avatar_filename: _c5a9726.jpg
 interests:
   - Armed Conflict
   - Rebel Groups
