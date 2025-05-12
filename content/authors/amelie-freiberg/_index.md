@@ -51,9 +51,11 @@ Welcome to my website. I am Dr. Amelie Freiberg, a Postdoctoral Researcher at th
 
 I hold a Ph.D. in Political Science from [Trinity College Dublin](https://www.tcd.ie/Political_Science/), where I also completed my M.Sc. in International Politics. My academic journey began with a B.A. in Political Science and English Studies from the [University of Mannheim](https://www.uni-mannheim.de/)
 
-My research centers on conflict studies, with a particular focus on understanding and explaining sexual violence in armed conflicts and insurgent behavior. In my doctoral thesis, titled *"Education, Indoctrination, and Conflict: The Role of Political Education in Shaping Combatant Behaviour and Sexual Violence in Civil War"*, I examined how rebel groups' socialization practices influence conflict-related sexual violence.
+My research focuses on political violence and the dynamics of armed conflict, with particular expertise in rebel group behavior, radicalization, and violence against civilians. In my doctoral dissertation titled *"Education, Indoctrination, and Conflict: The Role of Political Education in Shaping Combatant Behaviour and Sexual Violence in Civil War"*, I analyzed how rebel organizations use ideological and political education to influence combatant behavior, including the use of violence.
 
-My research interests are Armed Conflict, Rebel Groups, Conflict-related Sexual Violence, Rebel Socialisation, Africa
+My work emphasizes analytical precision, contextual interpretation of ideologically motivated behavior, and the role of socialization in shaping militant identity and actions. I bring deep regional expertise on conflict dynamics in Africa, as well as experience with qualitative data analysis, open-source research methods, and the interpretation of extremist narratives.
+
+Research Interests: Armed Conflict, Political Violence, Rebel Groups, Radicalization Processes, Conflict-related Sexual Violence, OSINT, Extremist Ideologies
 
 Currently, I lead the **“Socialisation and Political Education in Rebel Groups” (SOPERG)** data project, which investigates how African rebel groups employ political education to socialize their members. This dataset provides insights into the political education efforts of rebel organizations involved in African intrastate conflicts between 1989 and 2021, as documented in the Sexual Violence in Armed Conflicts (SVAC) Dataset.
 
