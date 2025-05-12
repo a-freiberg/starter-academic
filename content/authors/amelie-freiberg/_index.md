@@ -63,8 +63,6 @@ For a deeper understanding of the SOPERG project, you can read my blog post on C
 
 I welcome discussions about my research and can be reached at [freibera@tcd.ie](<>).
 
-If you're interested in my work, I invite you to listen to my episode on the CRSV Observatory Podcast, where I delve into conflict-related sexual violence and combatant socialization.
-
 Beyond my academic pursuits, I have a passion for books, pets, plants, and knitting.
 
 <!--EndFragment-->
